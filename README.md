@@ -11,4 +11,3 @@ Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com [Solid
 - 📦 Vite
 
 ---
-
